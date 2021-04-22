@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Projekt Konrad Kowalczyk 36334 ID2/III</string>
+    <string name="strzalka_w_prawo">&#xf054;</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
